@@ -157,7 +157,7 @@ Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 ### Examples
 
-You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
+You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built. 👍
 
 ## Spread the word!
 
